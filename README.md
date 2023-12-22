@@ -43,3 +43,8 @@ void loop() {
 
 ## SPOLUPRACOVNÍCI:
 #### Můj spolupracovník je spolužák Tomáš Jarkovský.
+
+## FOTOGRAFIE: 
+![led_pasek_001](https://github.com/Faltiiik/Led-p-sek/assets/154556338/4efa0b4b-1630-4005-b7f5-adfd6bdde1ae)
+
+
