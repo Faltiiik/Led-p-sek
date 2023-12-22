@@ -33,4 +33,4 @@ void loop() {
     delay(40);
   }
 }
-##### Zatím se jedná pouze o jednoduchý program, ale pokusím se po Vánocích o dodělání tohoto projektu.
+##### Zatím se jedná pouze o jednoduchý program, ale pokusím se po Vánocích o dodělání tohoto projektu. 
