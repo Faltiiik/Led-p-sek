@@ -6,7 +6,7 @@
 ## POPIS PRÁCE:
 #### Nejprve jsem si koupil Arduino UNO R3 na kterém programuji, dále jsme si s kolegou Tomášem Jarkovským oba zakoupili LED programovací pásek na stránce TEMU, abychom měli levnejší poštovné. Programuji pomocí AI, který mi pomáhá abych pochopil začátek tohoto projektu. 
 
-## Program: 
+## PROGRAM: 
 #### #include <FastLED.h>
 
 #define LED_PIN     7
@@ -34,3 +34,6 @@ void loop() {
   }
 }
 ##### Zatím se jedná pouze o jednoduchý program, ale pokusím se po Vánocích o dodělání tohoto projektu. 
+
+## AKTUÁLNÍ STAV:
+#### Pokouším se udělat lepší a větší program na LED pásek, LED pásek v momentální chvíli svítí různýma barvama, bliká a mění intenzitu. Další efekty se pokusím po Vánocích zprovoznit, až na to bude více času.
