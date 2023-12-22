@@ -3,4 +3,4 @@
 ## ZADÁNÍ:
 #### Jako ročníkový projekt jsem si vybral LED pásek, který bude umět měnit barvu světla, intenzitu světla a další různé světelné efekty které zvládnu nahrát. 
 
-##P POPIS AKTUÁLNÍHO STAVU PROJEKTU:
+## POPIS AKTUÁLNÍHO STAVU PROJEKTU:
