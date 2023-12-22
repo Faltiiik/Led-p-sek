@@ -42,4 +42,4 @@ void loop() {
 #### Jako hlavní zdroj použivám AI, které pomáhá k vymýšlení kódu, který se následně snažím upravit. Další jsou youtobe videa která vysvětlují jak se to má dělat.
 
 ## SPOLUPRACOVNÍCI:
-#### Jediná můj spolupracovník je spolužák Tomáš Jarkovský
+#### Můj spolupracovník je spolužák Tomáš Jarkovský.
