@@ -37,3 +37,9 @@ void loop() {
 
 ## AKTUÁLNÍ STAV:
 #### Pokouším se udělat lepší a větší program na LED pásek, LED pásek v momentální chvíli svítí různýma barvama, bliká a mění intenzitu. Další efekty se pokusím po Vánocích zprovoznit, až na to bude více času.
+
+ZDROJE
+#### Jako hlavní zdroj použivám AI, které pomáhá k vymýšlení kódu, který se následně snažím upravit. Další jsou youtobe videa která vysvětlují jak se to má dělat.
+
+SPOLUPRACOVNÍCI
+#### Jediná můj spolupracovník je spolužák Tomáš Jarkovský
